@@ -1,0 +1,14 @@
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\bin\Debug\net8.0\server.exe
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\bin\Debug\net8.0\server.deps.json
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\bin\Debug\net8.0\server.runtimeconfig.json
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\bin\Debug\net8.0\server.dll
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\bin\Debug\net8.0\server.pdb
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\server.dll
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\refint\server.dll
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\server.pdb
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+F:\Backup 2024\noveno Semestre\Programacion Distribuida\Estilos Arquitecturas\Socket IO\server\obj\Debug\net8.0\ref\server.dll
