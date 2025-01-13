@@ -24,26 +24,31 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/alfadexters/Socket.IO-with-C-.git
 cd Socket.IO-with-C-
+```
 
 ### 2. Set Up the Server
 
 1. Navigate to the server directory:
 ```bash
 cd server
+```
 2. Restore dependencies and run the server:
 ```bash
 dotnet restore
 dotnet run
+```
 3. The server will listen for connections on port 8080.
 
 ### 3. Set Up the Client
 1. Open a new terminal and navigate to the client directory
 ```bash
 cd client
+```
 2. Restore dependencies and run the client:
 ```bash
 dotnet restore
 dotnet run
+```
 3. The client will connect to the server at 127.0.0.1:8080 (localhost by default).
 4. Open additional terminals and repeat the above steps to run multiple client instances.
 
@@ -72,20 +77,21 @@ Server is running on port 8080...
 New client connected!
 Received: Hello from Client 1
 Received: Hi from Client 2
+```
 ### Client 1:
 ```plaintext
 Connecting to server...
 Connected to server!
 Hello from Client 1
 Message from server: Hi from Client 2
-
+```
 ### Client 2:
 ```plaintext
 Connecting to server...
 Connected to server!
 Hi from Client 2
 Message from server: Hello from Client 1
-
+```
 ---
 
 ## Testing
